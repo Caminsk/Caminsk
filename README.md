@@ -6,3 +6,4 @@
 - 📫 Contate-me através do e-mail: matheus.caminsk@gmail.com
 
 
+![Snake animation](https://github.com/MatheuCaminsk/MatheusCaminsk/blob/output/github-contribution-grid-snake.svg)
